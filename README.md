@@ -8,7 +8,3 @@
 
 
 #### 나와 당신, 우리의 꿈을 꾸는 기획자. 민유
-
-----
-
-[![min-uuu's github stats](https://github-readme-stats.vercel.app/api?username=min-uuu)](https://github.com/min-uuu/github-readme-stats)
