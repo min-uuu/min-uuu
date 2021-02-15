@@ -5,7 +5,7 @@
   그리고 커뮤니케이터. <br>
   민유 <br><br>
   - 한국디지털미디어고등학교 19기 웹프로그래밍과 <br>
-  - '베리타스' 동아리 대표 <br>
+  - <a href="https://veritas.page">'베리타스'</a> 동아리 대표 <br>
   - '일리피카' 일렉, 드럼 그리고 동아리 대표 <br><br>
   <a href="https://minyou.us">포트폴리오</a> | 
   <a href="https://github.com/min-uuu">깃허브</a> | 
