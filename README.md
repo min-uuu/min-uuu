@@ -5,6 +5,7 @@
 
 
 <p align="center" style="line-height: 2"> 
+  <br>
   나와 당신, 우리의 꿈을 꾸는 기획자. <br>
   사람과 사람을 잇는 커뮤니케이터. <br>
   민유 <br><br><br>
@@ -20,6 +21,7 @@
   <br><br><br>
   <a href="https://minyou.us">페이지</a> | 
   <a href="https://portfolio.minyou.us">포트폴리오</a> | 
+  <a href="https://post.minyou.us">블로그</a> | 
   <a href="https://contact.minyou.us">연락처</a>
   <br><br><br>
   <p> <p>
